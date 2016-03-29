@@ -10,6 +10,7 @@ body {
   font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
   background:url(images/ain2.jpg);
   background-repeat:repeat;
+  border:5px solid black;
 }
 
 li a {
