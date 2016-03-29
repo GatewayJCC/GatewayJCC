@@ -24,8 +24,8 @@ li {
 }
 ul{
     background-color: #fff;
-     margin: 0;
-    padding: 0;
+     margin-left:0;
+     margin-right:0;
     overflow: hidden;
     display:inline-block;
     width:1000px;
@@ -36,5 +36,5 @@ ul{
     font-size: 1.3em;
 }
 #head {
-  clear:both;
+  text-align:center;
 }
