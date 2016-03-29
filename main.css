@@ -24,6 +24,7 @@ li a {
 }
 li {
   float:left;
+  clear:both;
 }
 ul{
     background-color: #fff;
