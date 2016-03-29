@@ -24,7 +24,7 @@ li a {
 }
 li {
   float:left;
-  clear:both;
+  
 }
 ul{
     background-color: #fff;
@@ -39,5 +39,5 @@ ul{
     font-size: 1.3em;
 }
 #head {
-  float:left;
+  clear:both;
 }
