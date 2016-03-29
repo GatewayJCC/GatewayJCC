@@ -19,7 +19,7 @@ body {
 li a {
     text-decoration: none;
     text-align: center;
-    padding: 14px 16px;
+    padding: 15px 25px;
     color: black;
 }
 li {
@@ -32,6 +32,7 @@ ul{
     padding: 0;
     overflow: hidden;
     display:inline;
+    width:1000px;
     
 }
 .nav{
