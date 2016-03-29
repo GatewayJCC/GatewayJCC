@@ -1,8 +1,4 @@
-*{margin: 0;
-padding: 0;
 
-
-}
 body {
   width: 1000px;
   margin-left:auto;
@@ -28,10 +24,10 @@ li {
 }
 ul{
     background-color: #fff;
-     margin: auto;
-    padding: auto;
-   
-    display:inline;
+     margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display:inline-block;
     width:1000px;
     
 }
