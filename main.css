@@ -10,3 +10,6 @@ body {
   background:url(images/ain2.jpg);
   background-repeat:repeat;
 }
+Ul{
+  display:inline-block;
+}
