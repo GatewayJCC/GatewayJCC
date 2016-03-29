@@ -28,9 +28,9 @@ li {
 }
 ul{
     background-color: #fff;
-     margin: 0;
-    padding: 0;
-    overflow: hidden;
+     margin: auto;
+    padding: auto;
+   
     display:inline;
     width:1000px;
     
