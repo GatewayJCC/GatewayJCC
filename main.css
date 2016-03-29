@@ -10,6 +10,6 @@ body {
   background:url(images/ain2.jpg);
   background-repeat:repeat;
 }
-nav ul{
+.nav ul{
   display:inline-block;
 }
