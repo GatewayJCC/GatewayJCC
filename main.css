@@ -16,7 +16,7 @@ body {
 li a {
     text-decoration: none;
     text-align: center;
-    padding: 3px 35px;
+    
     color: black;
 }
 li {
@@ -30,7 +30,7 @@ ul{
     overflow: hidden;
     display:inline-block;
     width:96%;
-    
+    border-collapse:collapse;
     
 }
 .nav{
