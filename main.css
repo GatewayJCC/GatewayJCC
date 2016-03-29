@@ -38,4 +38,5 @@ ul{
 #head {
   text-align:center;
   font-size:5em;
+  border: 5px solid black;
 }
