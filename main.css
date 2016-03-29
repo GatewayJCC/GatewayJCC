@@ -16,7 +16,7 @@ body {
 li a {
     text-decoration: none;
     text-align: center;
-    
+    padding:5px 20px;
     color: black;
 }
 li {
@@ -29,8 +29,9 @@ ul{
      margin-right:0;
     overflow: hidden;
     display:inline-block;
-    width:96%;
+    width:95%;
     border-collapse:collapse;
+    
     
 }
 .nav{
