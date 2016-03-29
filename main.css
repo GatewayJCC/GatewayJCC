@@ -1,6 +1,6 @@
 
 body {
-  width: 1000px;
+  width: 50%;
   margin-left:auto;
   margin-right:auto;
   background-size: 10%;
@@ -29,9 +29,10 @@ ul{
      margin-right:0;
     overflow: hidden;
     display:inline-block;
-    width:990;
+    width:96%;
     border-collapse:collapse;
-    
+    border:2.5px black solid;
+    border-width:100%;
     
 }
 .nav{
