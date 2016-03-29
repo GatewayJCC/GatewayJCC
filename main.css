@@ -41,6 +41,9 @@ ul{
   font-size:5em;
   border: 5px solid black;
 }
+.bold {
+  font-weight:bold;
+}
 a:link {
     color: red;
 }
