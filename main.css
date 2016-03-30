@@ -50,6 +50,14 @@ ul{
 .bold {
   font-weight:bold;
 }
+section{
+  width:25%;
+  
+}
+aside{
+  width:25%;
+}
+
 a:link {
     color: red;
 }
