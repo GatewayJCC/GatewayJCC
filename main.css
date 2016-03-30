@@ -11,6 +11,13 @@ body {
   background:url(images/ain2.jpg);
   background-repeat:repeat;
   border:5px solid black;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-width: 50%; /* Chrome, Safari, Opera */
+    column-width: 50%;
+}
+
 }
 
 li a {
@@ -52,11 +59,15 @@ ul{
 }
 article{
   width:25%;
+  -webkit-column-span: 1; /* Chrome, Safari, Opera */
+    column-span: 1;
   
 }
 aside{
   width:25%;
   float:right;
+  -webkit-column-span: 1; /* Chrome, Safari, Opera */
+  column-span: 1;
 }
 
 a:link {
